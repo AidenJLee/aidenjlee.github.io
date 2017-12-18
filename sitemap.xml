@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/12/18/LessCodeAndLessBugs/</loc>
+    
+    <lastmod>2017-12-18T07:51:27.207Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/12/18/ArtofSwiftProgramming/</loc>
     
-    <lastmod>2017-12-17T17:19:05.959Z</lastmod>
+    <lastmod>2017-12-18T07:46:15.092Z</lastmod>
     
   </url>
   
